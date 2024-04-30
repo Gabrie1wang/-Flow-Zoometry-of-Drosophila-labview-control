@@ -5,10 +5,10 @@ NI-IMAQ-dx
 NI-IMAQ
 vison development module
 
-vi from Hamamatsu(Video Capture Library):
+below are the vi from hardware companies which can be replace with the hardware you use:
+vi from Hamamatsu(Video Capture Library) for the cmos control:
 https://dcam-api.com/third-party-plugins/
-vi from Tektronix:
-vi from thorlabs kenesis:
+vi from thorlabs kenesis for the filter wheel control:
 https://www.thorlabs.co.jp/newgrouppage9.cfm?objectgroup_id=12675
-vi from optosigma (LabVIEW　RS232C用　(バージョン2023用)):
+vi from optosigma (LabVIEW　RS232C用　(バージョン2023用)) for the step motor stage contol:
 https://jp.optosigma.com/ja_jp/software__sample
